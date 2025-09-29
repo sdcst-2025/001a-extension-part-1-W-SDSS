@@ -1,0 +1,6 @@
+print("Welcome to your psychological test!!")
+print("Today you will know your character.")
+print("")
+print("What are you doing now?")
+print("1. You found a creature.")
+print("2. You are camping.")
